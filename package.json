@@ -1,0 +1,22 @@
+{
+  "name": "dukispace",
+  "version": "1.0.0",
+  "description": "Personal site for resume, projects, theology",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebtote/dukispace.git"
+  },
+  "author": "Caleb Tote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebtote/dukispace/issues"
+  },
+  "homepage": "https://github.com/calebtote/dukispace#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
